@@ -19,7 +19,11 @@ Each notebook focuses on demonstrating key functionalities, data manipulation te
 ## Usage
 
 - **Explore Notebooks:** Feel free to explore the notebooks based on your interests and learning objectives.
-- **Clone the Repository:** Clone the repository to your local machine.
+- **Clone the Repository:**
+   ```bash
+   git clone https://github.com/charan-s108/tech-interview-prep.git
+
+   ```
 - **Open Notebooks:** Open the notebooks using Jupyter Notebook or JupyterLab.
 - **Execute Code Cells:** Run the code cells to see the results.
 - **Modify and Experiment:** Modify the code cells and experiment with different parameters to observe how the libraries behave under various conditions.

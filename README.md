@@ -20,7 +20,7 @@ Each notebook focuses on demonstrating key functionalities, data manipulation te
 
 Feel free to explore the notebooks based on your interests and learning objectives. Clone the repository to your local machine and open the notebooks using Jupyter Notebook or JupyterLab. Execute the code cells, modify them and experiment with different parameters to see how the libraries behave under various conditions.
 
-## Contributing
+## Contribution
 
 Contributions to enhance the existing notebooks or add new ones are welcome! If you find any issues, have suggestions, or want to contribute improvements, please fork the repository and submit a pull request.
 

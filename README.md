@@ -18,7 +18,11 @@ Each notebook focuses on demonstrating key functionalities, data manipulation te
 
 ## Usage
 
-Feel free to explore the notebooks based on your interests and learning objectives. Clone the repository to your local machine and open the notebooks using Jupyter Notebook or JupyterLab. Execute the code cells, modify them and experiment with different parameters to see how the libraries behave under various conditions.
+- **Explore Notebooks:** Feel free to explore the notebooks based on your interests and learning objectives.
+- **Clone the Repository:** Clone the repository to your local machine.
+- **Open Notebooks:** Open the notebooks using Jupyter Notebook or JupyterLab.
+- **Execute Code Cells:** Run the code cells to see the results.
+- **Modify and Experiment:** Modify the code cells and experiment with different parameters to observe how the libraries behave under various conditions.
 
 ## Contribution
 
